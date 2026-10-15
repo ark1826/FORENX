@@ -1,0 +1,7 @@
+{
+  "name": "FOREnX - AI Digital Evidence Management",
+  "description": "Simple and feasible digital evidence and case management platform with easy file uploads, plain-English AI file summaries, and verified chain of custody.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
